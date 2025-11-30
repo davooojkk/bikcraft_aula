@@ -1,4 +1,6 @@
 @import "./global/global.css";
+@import "./global/header.css";
+@import "./global/footer.css";
 
 /* Utilidades */
 @import "./utilidades/componentes.css";
@@ -7,7 +9,6 @@
 
 /* Home */
 @import "./home/intro.css";
-@import "./home/header.css";
 @import "./home/tecnologia.css";
 @import "./home/parceiros.css";
 @import "./home/depoimento.css";
