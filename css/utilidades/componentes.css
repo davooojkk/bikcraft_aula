@@ -25,6 +25,8 @@ img[src$=".jpg"]** {
   font-weight: 600;
   transition: 0.3s;
   max-width: max-content;
+  border: none;
+  cursor: pointer;
 }
 
 .link {
