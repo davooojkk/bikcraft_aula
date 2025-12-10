@@ -40,12 +40,14 @@
     grid-template-columns: 1fr 1fr;
     gap: 20px;
     align-content: start;
+    background: url("../../img/dec/bottom-left.svg") no-repeat bottom 20px left 20px;
+
 }
 
 .orcamento-dados {
     border-radius: 0 5px 5px 0;
     background: var(--c-0);
-
+    background: url("../../img/dec/bottom-right.svg") no-repeat bottom 20px right 20px;
 }
 
 .orcamento-produto>* {
@@ -176,6 +178,8 @@
 
     .orcamento-produto {
         border-radius: 5px 5px 0 0;
+        background: var(--c-12);
+
     }
 
     .orcamento-dados {
