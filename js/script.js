@@ -21,7 +21,7 @@ function ativarProduto(parametro) {
     const elemento = document.getElementById(parametro);
     if (elemento) {
         elemento.checked = true;
-        
+
     }
 
 }
